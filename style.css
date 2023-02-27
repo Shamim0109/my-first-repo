@@ -1,3 +1,18 @@
 p{
     font-weight: bold;
 }
+nav ul{
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 10px;
+    padding: 8px;
+}
+nav ul li:hover{
+    background: lime;
+    
+}
+nav ul li a{
+    text-decoration: none;
+}
